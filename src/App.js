@@ -54,7 +54,7 @@ export default function App() {
   return (
     <div className="App">
       <nav className="navbar">
-        <h1 className="text">Ships Data</h1>
+        <h1 className="text">Space X</h1>
         {/* <span className="text">Search here</span> */}
         <Search
           changeSearchTerm={(inp) => setSearchTerm(inp)}
